@@ -1,5 +1,5 @@
 # webpack-configuracion-estandar
-Fin de la sección 8
+Este es el proyecto inicial para crear apps en webpack
 
 
 ## Nota
